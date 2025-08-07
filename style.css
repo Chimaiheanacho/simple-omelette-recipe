@@ -1,0 +1,60 @@
+body{
+    background-color: hsl(32, 10%, 62%);
+}
+.container{
+    margin-top: 7%;
+    margin-bottom: 15%;
+    margin-left: 30%;
+    margin-right: 20%;
+    background-color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 15px;
+    padding-bottom: 80px;
+}
+.image{
+    margin-top: 20px;
+    margin-right: 20px;
+    width: 100%;
+    border-radius: 10px;
+
+}
+.preparationtime{
+    background-color: hsl(35, 30%, 79%);
+    padding: 7px;
+    /* margin-left: 8px; */
+    /* margin-right: 8px; */
+}
+.ingredients{
+    color: hsl(34, 71%, 28%);
+}
+.line1{
+    height: .0px;
+    border: 1px solid black;
+    width: 620px;
+    margin-right: 300px;
+}
+.line2{
+     height: .0px;
+    border: 1px solid black;
+    width: 620px;
+    margin-right: 300px;
+}
+.instructions{
+    color: hsl(34, 71%, 28%);
+}
+ol li{
+    line-height: 1.6;
+}
+ul li{
+    line-height: 1.6;
+}
+table{
+    width: 100%;
+}
+.nutrition{
+    color: hsl(34, 71%, 28%);
+}
+.preptime{
+    color: hsl(34, 71%, 28%);
+}
